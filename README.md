@@ -3,7 +3,7 @@
 Welcome to my portfolio, this will look at the python projects that i have created this year:
 
 ## Intro to SQL
-Code from SQL intr:
+Code from SQL intro:
 ```python
 def insertFirstSQL():
     c.execute("""INSERT INTO tblEmployees(ID,FN,SN) VALUES ("2", "Barry", "Scott");""")
