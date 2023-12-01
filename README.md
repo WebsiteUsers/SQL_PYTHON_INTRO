@@ -1,9 +1,9 @@
 # Python Porfolio
 
-Welcome to my portfolio, this will look at the python projects that i have created this year:
+Welcome to my portfolio, this will look at the python
+projects that i have created this year:
 
-## Intro to SQL
-Code from SQL intro:
+## Intro To SQL with python
 ```python
 def insertFirstSQL():
     c.execute("""INSERT INTO tblEmployees(ID,FN,SN) VALUES ("2", "Barry", "Scott");""")
@@ -83,3 +83,6 @@ elif choice == 3:
 
 c.close()
 ```
+
+### Output Of Intro To SQL
+![alt tag for screen readers](IntroToSQLwhenran.PNG)
