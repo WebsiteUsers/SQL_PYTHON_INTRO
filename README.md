@@ -4,7 +4,7 @@ Welcome to my portfolio, this will look at the python projects that i have creat
 
 ## Intro to SQL
 Code from SQL intr:
-```sql
+```python
 def insertFirstSQL():
     c.execute("""INSERT INTO tblEmployees(ID,FN,SN) VALUES ("2", "Barry", "Scott");""")
     conn.commit()
