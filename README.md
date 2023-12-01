@@ -85,4 +85,4 @@ c.close()
 ```
 
 ### Output Of Intro To SQL
-![alt tag for screen readers](IntroToSQLwhenran.PNG)
+![alt tag for screen readers](images/IntroToSQLwhenran.PNG)
