@@ -1,8 +1,3 @@
-# Python Porfolio
-
-Welcome to my portfolio, this will look at the python
-projects that i have created this year:
-
 ## Intro To SQL with python
 ```python
 def insertFirstSQL():
